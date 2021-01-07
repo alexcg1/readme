@@ -1,6 +1,6 @@
 # Alex C-G 101
 
-I'm Alex C-G - I'm the Open Source Evangelist at [Jina AI](http://www.jina.ai). This is my personal README - it's here to give you a quick overview of who I am and what I (and my department at Jina) do.
+I'm Alex C-G - I'm the Open Source Evangelist at [Jina AI](http://www.jina.ai). This is my personal README - it's here to give you a quick overview of who I am and how best to ~get my attention~ facilitate efficient communication.
 
 * [Twitter](http://www.twitter.com/alexcg)
 * [LinkedIn](https://www.linkedin.com/in/alexcg/)
@@ -9,11 +9,19 @@ I'm Alex C-G - I'm the Open Source Evangelist at [Jina AI](http://www.jina.ai). 
 
 This README is a work in progress. I guess that's true of myself too, just like (I hope) most of humanity.
 
+## Why a README?
+
+Uh, because I'm such a shy wallflower and don't like speaking to people in person...ha, as if! I'm totally a people person, but I have a LOT of meetings with folks. This is for y'all to get some background on how best to contact me and about me in general.
+
+This is intended to be work-agnostic. So whatever $COMPANY I may be at, this thing should more-or-less apply.
+
+In case you haven't noticed this will be kinda informal with a wee splash of everything ~just like me~.
+
 ## Contact Me
 
 - Best way: Slack or email
 - Best time: late morning or early afternoon
-- Meetings: Check my [Google Calendar]() and fill in an empty slot
+- Meetings: Check my calendar on $COMPANY Google account and fill in an empty slot
 
 For general dev-rel stuff, post to our dedicated Slack channel, don't ping me directly
 
@@ -23,17 +31,17 @@ Our department is about engaging with developers and building up our community. 
 
 ### Developer Advocacy
 
-- Aim: Being Jina's ears to the developer community, and being the developer community's voice to Jina
+- Aim: Being $COMPANY's ears to the developer community, and being the developer community's voice to $COMPANY
 - Tasks: Monitor Slack, discuss in-person with devs at conferences, meetups
 
 ### Developer Experience
 
-- Aim: Provide smooth onboarding to get new users engaged with Jina and existing contributors more deeply engaged
+- Aim: Provide smooth onboarding to get new users engaged with $PRODUCT and existing contributors more deeply engaged
 - Tasks: Documentation, examples, testing, tutorials, etc
 
 ### Developer Evangelism
 
-- Aim: Engage with developer community to get the word out about Jina
+- Aim: Engage with developer community to get the word out about $PRODUCT
 - Tasks: Organize events, attend events, hackathons, blog posts
 
 ### Developer Marketing
@@ -50,9 +58,11 @@ Note the above isn't comprehensive, but just gives a broad overview.
 
 ## Personal Stuff
 
+Warning: swears ahead.
+
 - Big fan of IPA beer, Star Trek, Doctor Who, sci-fi in general
 - *Technically* homeless in that I've been on the road for so long I don't have a permanent abode (which is quite the pain in the ass during a pandemic)
 - I speak/write not-completely-terrible Mandarin. Okay, so actually it's a bit *mamahuhu* (damn, I need to get Chinese input working again)
-- I try to use open source in everything I do. Linux on a Thinkpad. No Macs or Windows for me if I can help it.
+- My English is likewise fscked - I've lived in so many places I speak a mish-mash of American/British/New Zealand English. With peppering of Yiddish and other languages for shits and giggles
 - Once got stuck in the Gobi Desert for 6 months
 - Once starred on a Chinese reality TV show where I danced ballet. Badly. In drag.
