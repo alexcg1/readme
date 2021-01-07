@@ -29,6 +29,8 @@ For general dev-rel stuff, post to our dedicated Slack channel, don't ping me di
 
 Our department is about engaging with developers and building up our community. I break our tasks down into four key focus areas:
 
+Note: I'll likely break this into a dedicated dev-rel README sometime soon. Mostly because I simply can't *stand* how stuffy my language is in this section.
+
 ### Developer Advocacy
 
 - Aim: Being $COMPANY's ears to the developer community, and being the developer community's voice to $COMPANY
@@ -54,7 +56,6 @@ Note the above isn't comprehensive, but just gives a broad overview.
 ## Other Work Stuff
 
 - As you may have guessed from the "open source evangelist" bit, I'm into open source. I use Manjaro Linux on a Thinkpad X1, and *really* wish we had open alternatives to Zoom, Slack, etc
-- I'm also a vim (okay, neovim) user. I want to integrate it into Google Docs but lack the time/smarts
 
 ## Personal Stuff
 
@@ -66,3 +67,22 @@ Warning: swears ahead.
 - My English is likewise fscked - I've lived in so many places I speak a mish-mash of American/British/New Zealand English. With peppering of Yiddish and other languages for shits and giggles
 - Once got stuck in the Gobi Desert for 6 months
 - Once starred on a Chinese reality TV show where I danced ballet. Badly. In drag.
+
+## Misc
+
+### General
+
+- Diversity and inclusion all the way. I'm a he/him
+
+### Tech
+
+- Break free from your Macbooks. All you have to lose is your chains (seriously, give me a jackhammer and five minutes alone with your shiny machine)
+- I'm a vim (okay, neovim) user. I want to integrate it into Google Docs but lack the time/smarts
+- Markdown and plaintext are my preferred formats. Though I can hold my nose and deal with Google Docs too.
+
+### Unpopular Opinions
+
+Gee, wonder why I saved this section for last?
+
+- Sports are just glorified tidying up. People putting things into other things. If I want to watch that I'll just watch my niece put blocks in holes
+- Star Wars isn't sci-fi. It's fantasy
