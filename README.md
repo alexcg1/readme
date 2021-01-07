@@ -7,7 +7,7 @@ I'm Alex C-G - I'm the Open Source Evangelist at [Jina AI](http://www.jina.ai). 
 * [Medium](https://medium.com/@alexcg1)
 * [Personal blog](http://alexcg1.github.io) (not updated for a while)
 
-This README is a work in progress. I guess that's true of myself too, just like (I hope) most of humanity.
+This README is an imperfect work in progress. I guess that's true of myself too, just like (I hope) most of humanity.
 
 ## Why a README?
 
