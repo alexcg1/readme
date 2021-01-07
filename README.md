@@ -72,11 +72,12 @@ Warning: swears ahead.
 
 ### General
 
-- Diversity and inclusion all the way. I'm a he/him
+- Diversity and inclusion all the way. I wrote a list on [diverse figures in tech history](https://github.com/folkswhocode/awesome-diversity/blob/master/FIGURES.md)
+- Pronouns: he/him. I like *they* too. I try to be gender neutral when I use pronouns myself, hence all the *folks* and *peeps* in my lingo
 
 ### Tech
 
-- Break free from your Macbooks. All you have to lose is your chains (seriously, give me a jackhammer and five minutes alone with your shiny machine)
+- Break free from your Macbooks. All you have to lose are your chains (seriously, give me a jackhammer and five minutes alone with your shiny machine)
 - I'm a vim (okay, neovim) user. I want to integrate it into Google Docs but lack the time/smarts
 - Markdown and plaintext are my preferred formats. Though I can hold my nose and deal with Google Docs too.
 
