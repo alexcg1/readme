@@ -1,11 +1,12 @@
 # Alex C-G 101
 
-I'm Alex C-G - I'm the Open Source Evangelist at [Jina AI](http://www.jina.ai). This is my personal README - it's here to give you a quick overview of who I am and how best to ~get my attention~ facilitate efficient communication.
+I'm Alex C-G - I'm the ~Open Source Evangelist~ Developer Relations Lead at [Jina AI](http://www.jina.ai). This is my personal README - it's here to give you a quick overview of who I am and how best to ~get my attention~ facilitate efficient communication.
 
-* [Twitter](http://www.twitter.com/alexcg)
-* [LinkedIn](https://www.linkedin.com/in/alexcg/)
-* [Medium](https://medium.com/@alexcg1)
-* [Personal blog](http://alexcg1.github.io) (not updated for a while)
+* 🐦 [Twitter](http://www.twitter.com/alexcg)
+* 💼 [LinkedIn](https://www.linkedin.com/in/alexcg/)
+* 🖋️ [Medium](https://medium.com/@alexcg1)
+* 📺 [YouTube](https://www.youtube.com/playlist?list=PL31qJ9WBBeNg_wZVSd8AKcgzrJt-iVgxF)
+* 🗒️ [Personal blog](http://alexcg1.github.io) (not updated for a while)
 
 This README is an imperfect work in progress. I guess that's true of myself too, just like (I hope) most of humanity.
 
