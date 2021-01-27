@@ -10,8 +10,9 @@
 
 I'm Alex C-G - I'm the ~Open Source Evangelist~ Developer Relations Lead at [Jina AI](http://www.jina.ai). This is my personal README - it's here to give you a quick overview of who I am and how best to ~get my attention~ facilitate efficient communication.
 
+Most of the projects in my profile are written in Python, though I also muck around with Arduino and have the usual smattering of shell scripts, Markdown and whatnot
 
-This README is an imperfect work in progress. I guess that's true of myself too, just like (I hope) most of humanity.
+This README is an imperfect work in progress. I guess that's true of myself too, just like (I would hope) most of humanity.
 
 ## Contents
 
