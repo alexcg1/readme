@@ -2,7 +2,9 @@
  
 <p align="center">
 <strong>
+
 🐦 [Twitter](http://www.twitter.com/alexcg) • 💼 [LinkedIn](https://www.linkedin.com/in/alexcg/) • 🖋️ [Medium](https://medium.com/@alexcg1) •  📺 [YouTube](https://www.youtube.com/playlist?list=PL31qJ9WBBeNg_wZVSd8AKcgzrJt-iVgxF)
+
 </strong>
 </p>
 
