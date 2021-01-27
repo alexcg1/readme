@@ -8,7 +8,7 @@
 </strong>
 </p>
 
-I'm Alex C-G - I'm the ~Open Source Evangelist~ Developer Relations Lead at [Jina AI](http://www.jina.ai). This is my personal README - it's here to give you a quick overview of who I am and how best to get my attention.
+I'm Alex C-G - I'm the ~Open Source Evangelist~ Developer Relations Lead at [Jina AI](https://github.com/jina-ai/jina/). This is my personal README - it's here to give you a quick overview of who I am and how best to get my attention.
 
 Most of the projects in my profile are written in Python, though I also muck around with Arduino and have the usual smattering of shell scripts, Markdown and whatnot
 
@@ -42,7 +42,7 @@ For general dev-rel stuff, post to our dedicated Slack channel, don't ping me di
 
 ## Projects
 
-- **[Developer Relations](#developer-relations) at [Jina AI](http://www.jina.ai)**: Building and supporting Jina's developer community
+- **[Developer Relations](#developer-relations) at [Jina AI](https://github.com/jina-ai/jina/)**: Building and supporting Jina's developer community
 - **Animatronic butterfly jewelry**: Lifesize jewelry that looks and flaps like butterflies. No, they won't fly. Nobody wants jewelry that flies itself away. Currently on hold until hackerspaces open up again
 - **[Star Trek script generator](https://github.com/alexcg1/easy_text_generator)**: Language model fine-tuned on GPT2. Generates crappy Star Trek scripts
 - **[Easy text generator](https://github.com/alexcg1/easy_text_generator)**: Simple browser front-end to generate text using [Transformers](http://www.huggingface.co)
