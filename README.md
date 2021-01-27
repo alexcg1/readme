@@ -9,6 +9,16 @@ I'm Alex C-G - I'm the Open Source Evangelist at [Jina AI](http://www.jina.ai). 
 
 This README is an imperfect work in progress. I guess that's true of myself too, just like (I hope) most of humanity.
 
+## Contents
+
+- [Why?](#why-a-readme)
+- [Contact me](#contact-me)
+- [Projects](#projects)
+- [Developer relations](#developer-relations)
+- [Other work stuff](#other-work-stuff)
+- [Personal stuff](#personal-stuff)
+- [Misc](#misc)
+
 ## Why a README?
 
 Uh, because I'm such a shy wallflower and don't like speaking to people in person...ha, as if! I'm totally a people person, but I have a LOT of meetings with folks. This is for y'all to get some background on how best to contact me and about me in general.
@@ -24,6 +34,19 @@ In case you haven't noticed this will be kinda informal with a wee splash of eve
 - Meetings: Check my calendar on $COMPANY Google account and fill in an empty slot
 
 For general dev-rel stuff, post to our dedicated Slack channel, don't ping me directly
+
+## Projects
+
+- **[Developer Relations](#developer-relations) at [Jina AI](http://www.jina.ai)**: Building and supporting Jina's developer community
+- **Animatronic butterfly jewelry**: Lifesize jewelry that looks and flaps like butterflies. No, they won't fly. Nobody wants jewelry that flies itself away. Currently on hold until hackerspaces open up again
+- **[Star Trek script generator](https://github.com/alexcg1/easy_text_generator)**: Language model fine-tuned on GPT2. Generates crappy Star Trek scripts
+- **[Easy text generator](https://github.com/alexcg1/easy_text_generator)**: Simple browser front-end to generate text using [Transformers](http://www.huggingface.co)
+
+### Archived
+
+- [Medprint](https://gitlab.com/medprint) - Django project to help hospitals crowdsource PPE from maker community
+- [Open Source Ecovillages](https://fossforce.com/2017/02/building-open-source-village/)
+- [SpaceGAMBIT](https://www.nasa.gov/press/2014/november/nasa-announces-new-opportunities-for-public-participation-in-asteroid-grand) - open source space program, partnered with DARPA, NASA, (Obama-era) White House (working on getting website archive up again)
 
 ## Developer Relations
 
